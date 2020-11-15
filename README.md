@@ -1,7 +1,6 @@
 # Kickstarting-with-Excel
 ## Overview of Project
-
-### Purpose
+### The purpose of the project was the get familiar with many different functions on Excel. We used these functions to make calculations and analyze our data.
 
 ## Analysis and Challenges
 
