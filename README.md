@@ -9,7 +9,7 @@
 
 ![](Documents/Berkeley_Bootcamp/Resources/Outcomes_vs_Goals.png)
 
-![test.png](Desktop/test.png)
+![test.png](Desktop/test.png).
 
 ### From the analysis of outcomes based on goals, we populated the number of succes, failed, and canceled for each goal amount where the subcategory was plays. Firstly, we came to conclusion that we didn't have any results for canceled. 
 
@@ -17,10 +17,10 @@
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- The first conclutions I can draw from the outcomes based on launch date is that there were a lot more sucessful outcomes than failed and canceled combined. Another conclusion I can make is there was a spike in succesful cases in May and June
 
-- What can you conclude about the Outcomes based on Goals?
+- The first conclutions I can make from outcomes based on goals is there weren't any failed projects. We could also see that in some months, number of failed were higher than number of successful, but in other months it was the other way around.
 
-- What are some limitations of this dataset?
+- Some limitations this dataset had was we had to use calculations to convert the dates and extract the years. We also had to use calculations to split up the parent and sub category.
 
-- What are some other possible tables and/or graphs that we could create?
+- Some other graphs we could created might be stacked bar chart. So for each month, we can easily see what percentage were successful, canceled, or failed. 
