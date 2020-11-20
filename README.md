@@ -6,6 +6,10 @@
 ### From the analysis of outcomes based on launch date where parent category was theater,we could see that see that we have the most successful outcomes compared to failed and canceled. We could also see that there was a peak of successful cases in May.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/74155420/99212598-4f05a800-2780-11eb-813c-041663346717.png)
 
+
+![Outcomes vs Goal](https://github.com/jasonhmlee/Kickstarting-with-Excel/blob/main/Resources/Outcomes_vs_Goals.png)
+
+
 ### From the analysis of outcomes based on goals, we populated the number of succes, failed, and canceled for each goal amount where the subcategory was plays. Firstly, we came to conclusion that we didn't have any results for canceled. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/74155420/99212582-3c8b6e80-2780-11eb-951d-3cc6c616ee3e.png)
 
